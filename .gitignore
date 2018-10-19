@@ -1,0 +1,7 @@
+data/
+.env/
+.idea/
+.ipynb_checkpoints/
+aws/
+
+terraform.tfvars
